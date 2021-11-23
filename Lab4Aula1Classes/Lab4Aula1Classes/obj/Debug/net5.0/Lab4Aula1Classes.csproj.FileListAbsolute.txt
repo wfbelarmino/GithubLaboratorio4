@@ -1,0 +1,16 @@
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\bin\Debug\net5.0\Lab4Aula1Classes.exe
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\bin\Debug\net5.0\Lab4Aula1Classes.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\bin\Debug\net5.0\Lab4Aula1Classes.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\bin\Debug\net5.0\Lab4Aula1Classes.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\bin\Debug\net5.0\Lab4Aula1Classes.dll
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\bin\Debug\net5.0\ref\Lab4Aula1Classes.dll
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\bin\Debug\net5.0\Lab4Aula1Classes.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.dll
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\ref\Lab4Aula1Classes.dll
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.genruntimeconfig.cache
+C:\PROJETOS\CYBERTRON\Laboratorio4\Lab4Aula1Classes\Lab4Aula1Classes\obj\Debug\net5.0\Lab4Aula1Classes.csproj.AssemblyReference.cache
